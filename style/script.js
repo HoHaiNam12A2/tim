@@ -1,6 +1,6 @@
 const imgUrls = [];
 for (let i = 1; i <= 18; i++) {
-  imgUrls.push(`/tim/style/image/anh${i}.jpg`);
+  imgUrls.push(`../style/image/anh${i}.jpg`);
 }
 
 const messages = [
